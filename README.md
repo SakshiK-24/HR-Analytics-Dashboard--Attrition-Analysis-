@@ -38,17 +38,6 @@ The dataset contains employee records including:
 
 ---
 
-## 🛠️ Tools & Technologies
-
-| Tool               | Purpose                        |
-| ------------------ | ------------------------------ |
-| Power BI           | Dashboard Development          |
-| Power Query        | Data Cleaning & Transformation |
-| DAX                | KPI Calculations               |
-| Data Visualization | Business Insights & Reporting  |
-
----
-
 ## 📈 Dashboard Highlights
 
 ### Compensation & Attrition
@@ -107,6 +96,16 @@ This project demonstrates how Power BI can be used to convert raw HR data into m
 
 ---
 
+## 🛠️ Tools & Technologies
+
+| Tool               | Purpose                        |
+| ------------------ | ------------------------------ |
+| Power BI           | Dashboard Development          |
+| Power Query        | Data Cleaning & Transformation |
+| DAX                | KPI Calculations               |
+| Data Visualization | Business Insights & Reporting  |
+
+---
 ### Skills Demonstrated
 
 * Data Cleaning
