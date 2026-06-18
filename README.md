@@ -38,6 +38,11 @@ The dataset contains employee records including:
 
 ---
 
+## 📸 Dashboard Preview
+![Dashboard Screenshot](images/HRPic1.png)
+
+![Dashboard Screenshot](images/HRPic2.png)
+---
 ## 📈 Dashboard Highlights
 
 ### Compensation & Attrition
@@ -82,13 +87,6 @@ This dashboard supports data-driven HR decision-making by helping organizations:
 * Improve retention strategies.
 * Identify workforce trends early.
 * Support strategic HR planning.
-
----
-
-## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
-
----
 
 ## 🚀 Project Outcome
 
